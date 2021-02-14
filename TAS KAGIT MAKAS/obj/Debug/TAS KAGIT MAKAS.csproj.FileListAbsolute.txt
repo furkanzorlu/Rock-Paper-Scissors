@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\bin\Debug\TAS KAGIT MAKAS.exe.config
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\bin\Debug\TAS KAGIT MAKAS.exe
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\bin\Debug\TAS KAGIT MAKAS.pdb
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\obj\Debug\TAS KAGIT MAKAS.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\obj\Debug\TAS_KAGIT_MAKAS.Form1.resources
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\obj\Debug\TAS_KAGIT_MAKAS.Properties.Resources.resources
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\obj\Debug\TAS KAGIT MAKAS.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\obj\Debug\TAS KAGIT MAKAS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\obj\Debug\TAS KAGIT MAKAS.exe
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\obj\Debug\TAS KAGIT MAKAS.pdb
+C:\Users\HP\source\repos\TAS KAGIT MAKAS\TAS KAGIT MAKAS\obj\Debug\TAS_KAGIT_MAKAS.Form2.resources
